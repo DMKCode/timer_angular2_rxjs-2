@@ -1,6 +1,6 @@
 #Simple Timer Using Angular 2 and RxJS - Part 2
 
-This is the code for the [Simple Timer Using Angular and RxJS](https://dmkcode.com/2016/08/simple-timer-using-angular-2-and-rxjs/) blog post.
+This is the code for the [Simple Timer Using Angular and RxJS](https://dmkcode.com/2016/09/simple-timer-using-angular-2-and-rxjs-part-2/) blog post.
 
 ### Running the Application Locally
 
