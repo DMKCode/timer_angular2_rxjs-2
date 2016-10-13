@@ -1,5 +1,4 @@
-import 'es6-shim';
-import 'es6-promise';
+import 'core-js';
 
 import 'reflect-metadata';
 import 'zone.js/dist/zone';
@@ -13,6 +12,7 @@ import '@angular/http';
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
 import '@angular/router';
+import '@angular/upgrade';
 
 import 'rxjs';
 
